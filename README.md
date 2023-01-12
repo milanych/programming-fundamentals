@@ -4,7 +4,7 @@ This repository contains instructions and (where applicable) starter code for ex
 
 ## Set-up
 
-Begin by **forking** this repository and **cloning** it onto your machine.
+Begin by **cloning** this repository onto your machine.
 
 ## Exercises
 
