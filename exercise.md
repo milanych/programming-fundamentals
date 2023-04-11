@@ -12,7 +12,7 @@ For this task, work with another member of your cohort.
 
 ### Set-up
 
-Run `npm install -D` from this folder to install all necessary libraries.
+Run `npm install` from this folder to install all necessary libraries.
 
 ## Learning objectives
 
