@@ -1,7 +1,5 @@
 # Programming fundamentals
 
-This repository contains instructions and (where applicable) starter code for exercises in the **Programming fundamentals** module.
-
 ## Set-up
 
 Begin by **cloning** this repository onto your machine.
@@ -17,4 +15,3 @@ To begin an exercise, switch to the relevant branch and read [`exercise.md`](./e
 | Passing tests | `passing-tests` |
 | Loops and Conditionals | `loops-and-conditionals` |
 | Making a game | `making-a-game` |
-
