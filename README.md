@@ -1,10 +1,8 @@
 # Programming fundamentals
 
-This repository contains instructions and (where applicable) start code for exercises in the **Programming fundamentals** module.
-
 ## Set-up
 
-Begin by **forking** this repository and **cloning** it onto your machine.
+Begin by **cloning** this repository onto your machine.
 
 ## Exercises
 
